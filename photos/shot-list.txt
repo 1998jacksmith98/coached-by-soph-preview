@@ -1,0 +1,165 @@
+Coached by Soph (@coachedby.soph) — photo shot list
+Pack assembled 12 Nov 2026 (Europe/London).
+
+Typography-overlay rule: every still in this folder is a CLEAN photograph with
+NO Instagram typography / sticker overlay. Scene text (gym signage, cake-cabinet
+price cards, a shop “SMILE” sign, treadmill console UI) is flagged separately
+and is not a typography overlay.
+
+Original aspect ratios kept (uncropped as posted). Photo posts preferred over
+reel covers. Two higher-resolution stills (hallway 3072×4096, hack-squat
+1198×2122, gym-mirror 1206×1608) come from the anonymous publications viewer
+and match the posted frames; other stills are Instagram media/?size=l
+(typically 1080×1440) because full carousel children were not served at 3k
+anonymously.
+
+Physique / sports-bra mirror selfies that were more revealing, and every
+typography-heavy tips slide, were skipped because clean alternatives exist.
+
+========================================================================
+CLEAN — no typography overlay
+========================================================================
+
+about-me-01-curly-hair-portrait.jpg
+  Suggested use : ABOUT / owner portrait (best face portrait; modest clothing)
+  Source        : https://www.instagram.com/p/Ddo8Cg_CLQX/  (23 Sep 2026, “Life while MIA” carousel)
+  Child         : Ddo7Pn_IfTy
+  Dimensions    : 1080 × 1440  (portrait, size=l)
+  Overlay       : NONE
+  Scene text    : none
+  Shows         : Close portrait of Soph with curled hair, black top, looking to camera. Caption on this slide: “Rare selfie cos I curled my hair for once.”
+
+about-me-02-gym-mirror-black-crop.jpg
+  Suggested use : ABOUT / training / gym portrait
+  Source        : https://www.instagram.com/p/Ddo8Cg_CLQX/  (23 Sep 2026)
+  Child         : Ddo7PBXo2MM
+  Dimensions    : 1206 × 1608  (portrait, full viewer original — larger than size=l)
+  Overlay       : NONE
+  Scene text    : gym posters and 2.5 kg plate branding, reversed in the mirror
+  Shows         : Mirror selfie on the gym floor in a black crop top and taupe leggings, dumbbell rack in the foreground, machines behind.
+
+about-me-03-hallway-joggers.jpg
+  Suggested use : ABOUT / lifestyle portrait (highest-resolution still in the pack)
+  Source        : https://www.instagram.com/p/DbJYVaHIKXk/  (single still, 2026)
+  Dimensions    : 3072 × 4096  (portrait, original)
+  Overlay       : NONE
+  Scene text    : small lettering on the joggers (reversed in the mirror)
+  Shows         : Full-length hallway mirror selfie, dusty-pink sports bra and black joggers, phone covering part of her face.
+
+training-01-hack-squat.jpg
+  Suggested use : TRAINING / action
+  Source        : still associated with https://www.instagram.com/reel/Da55d9CoY1B/  (17 Jul 2026)
+  Dimensions    : 1198 × 2122  (portrait, viewer still)
+  Overlay       : NONE on this still (the reel itself has persistent “Motivation 3% / Showing up anyway 100%” typography — do not use a frame from the mp4 if you need a clean still; use this file)
+  Scene text    : plate “25” markings
+  Shows         : Soph on a hack-squat / leg-press machine in a dark gym, shot from a low angle. Her own training, not a client session.
+
+training-02-ski-erg.jpg
+  Suggested use : TRAINING / action
+  Source        : https://www.instagram.com/p/Db85b2uiJMv/  (12 Aug 2026)
+  Child         : Db85SjnIs85
+  Dimensions    : 1080 × 1440  (portrait, size=l)
+  Overlay       : NONE
+  Scene text    : ski-erg console; other gym kit in the background
+  Shows         : Soph on a ski-erg, white crop top and blue leggings, on a green gym floor. Own training.
+
+training-03-treadmill-console.jpg
+  Suggested use : TRAINING / gym detail
+  Source        : https://www.instagram.com/p/Ddo8Cg_CLQX/  (23 Sep 2026)
+  Child         : Ddo7P9to0-S
+  Dimensions    : 1080 × 1440  (portrait, size=l)
+  Overlay       : NONE
+  Scene text    : treadmill UI (“SELECT A PROGRAM”, heart-rate chart) and a Nike shoe — scene only
+  Shows         : Point-of-view shot of a treadmill console in the gym. Caption context: “Gym as and when. Getting the cardio in.”
+
+location-01-repz-gym-exterior.jpg
+  Suggested use : LOCATION / gym exterior
+  Source        : https://www.instagram.com/p/Ddo8Cg_CLQX/  (23 Sep 2026)
+  Child         : Ddo7PseI2Zm
+  Dimensions    : 1080 × 1440  (portrait, size=l)
+  Overlay       : NONE
+  Scene text    : building signs “REPZ GYM” and “REPZGYM.CO.UK” (photographed through a rainy windscreen)
+  Shows         : View from inside a car, rain on the windscreen, of the Repz Gym building. Caption context: “Need more rainy days like this pls x.” This is how the gym is identified in her own post; she has not captioned it as her employer.
+
+location-02-gym-floor-treadmills.jpg
+  Suggested use : LOCATION / gym interior
+  Source        : https://www.instagram.com/p/DaTX-NdCEbP/  (2 Jul 2026)
+  Child         : DaTXwGXo0v9
+  Dimensions    : 1080 × 1440  (portrait, size=l)
+  Overlay       : NONE
+  Scene text    : “REPZ GYM” wall logo (right); Precor / treadmill branding
+  Shows         : Gym floor from a treadmill, looking over rails to the weights area. Confirms the same Repz Gym interior as the exterior shot.
+
+lifestyle-01-english-breakfast.jpg
+  Suggested use : LIFESTYLE / food
+  Source        : https://www.instagram.com/p/Ddo8Cg_CLQX/  (23 Sep 2026)
+  Child         : Ddo7PfJodbX
+  Dimensions    : 1080 × 1440  (portrait, size=l)
+  Overlay       : NONE
+  Scene text    : none
+  Shows         : A cooked English breakfast she plated (eggs, bacon, sausages, mushrooms, tomatoes, toast, hash browns). Caption: “She only went and cooked an English breakfast. Not bad for my first if you ask me.”
+
+lifestyle-02-autumn-market.jpg
+  Suggested use : LIFESTYLE
+  Source        : https://www.instagram.com/p/Ddo8Cg_CLQX/  (23 Sep 2026)
+  Child         : Ddo7PzAIp3o
+  Dimensions    : 1080 × 1440  (portrait, size=l)
+  Overlay       : NONE
+  Scene text    : shop decorations, a small “SMILE” sign, product boxes (“Autumn in a box”, etc.)
+  Shows         : Autumn/gnome-and-mushroom market display. Caption: “Autumn arrived. My season is here.”
+
+lifestyle-03-dogs.jpg
+  Suggested use : LIFESTYLE
+  Source        : https://www.instagram.com/p/Ddo8Cg_CLQX/  (23 Sep 2026)
+  Child         : Ddo7QEhIhoe
+  Dimensions    : 1080 × 1440  (portrait, size=l)
+  Overlay       : NONE
+  Scene text    : none obvious
+  Shows         : Two dogs waiting by a front door, one in a harness, one on a yellow lead. Caption: “Doggo sitting the angel looking devils.”
+
+lifestyle-04-cafe-mochas.jpg
+  Suggested use : LIFESTYLE
+  Source        : https://www.instagram.com/p/Ddo8Cg_CLQX/  (23 Sep 2026)
+  Child         : Ddo7QHYooTf
+  Dimensions    : 1080 × 1440  (portrait, size=l)
+  Overlay       : NONE
+  Scene text    : lettering on a companion’s T-shirt
+  Shows         : Two mocha-style coffees on a café table; a companion (torso only, tattoos, black shirt) is in frame. Caption: “More mochas.”
+
+lifestyle-05-home-mocha.jpg
+  Suggested use : LIFESTYLE
+  Source        : https://www.instagram.com/p/Ddo8Cg_CLQX/  (23 Sep 2026)
+  Child         : Ddo7P6SohTP
+  Dimensions    : 1080 × 1440  (portrait, size=l)
+  Overlay       : NONE
+  Scene text    : none
+  Shows         : A mocha in a mug with chocolate shavings, beside a jar of flakes, on a dark worktop. Caption: “Mastered using a coffee machine after lots of fails.”
+
+lifestyle-06-cake-cabinet.jpg
+  Suggested use : LIFESTYLE
+  Source        : https://www.instagram.com/p/Ddo8Cg_CLQX/  (23 Sep 2026)
+  Child         : Ddo7QO6Ittk
+  Dimensions    : 1080 × 1440  (portrait, size=l)
+  Overlay       : NONE
+  Scene text    : café price cards on the cakes (scene only)
+  Shows         : A bakery/café cake cabinet. Caption: “Eat cake.”
+
+========================================================================
+NOT IN photos/ — skipped (for Jack’s awareness)
+========================================================================
+
+SKIPPED (typography overlay; clean alternatives exist)
+  - Db3t_VsiImo carousel — “YOUR WEEKLY REMINDERS” and other typography on gym stills.
+  - DceSXDLCKw8 carousel — “HABITS YOU NEED TO STAY IN SHAPE ALL YEAR”, “TRAINING / 4 sessions per week…”, and other tip typography on otherwise useful training stills (including a modest all-black back-extension shot).
+  - DaLk_FjCBWu carousel — “NEW TO THE GYM? START HERE” and related typography.
+  - Da5PfiuCLl9 child Da5O75soYG0 — typography-only quote graphic (no photograph).
+  - Reel covers Dd4Zz4Ooi4V, Ddrq5STIQkF, Dc1kVK7I2gf, Da55d9CoY1B — typography on the advertised frames. A clean hack-squat still from the Da55 reel is included above as training-01.
+
+SKIPPED (more revealing / physique-posed; modest alternatives exist)
+  - Db85b2uiJMv glute-focused side mirror selfie (Db85SxNoFC1) and the front-on sports-bra / shorts B&W selfie (isv_11).
+  - DceSXDLCKw8 “habits” rear-physique slide (already also overlaid).
+  - DaTX-NdCEbP locker-room / bathroom sports-bra selfie (isv_12, 3072×4096 existed but is more midriff-revealing than the hallway joggers shot).
+
+NOT USED
+  - 10 older posts (profile counts 22; only the first 12 were available anonymously).
+  - Highlight covers (Gym Life, Focus) — contents not opened.
